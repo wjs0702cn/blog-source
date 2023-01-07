@@ -1,7 +1,10 @@
 ---
 title: hexo blog 搭建
 date: 2023-01-04 12:55:46
-tags:
+tags: 
+- hexo 部署
+categories:
+- hexo
 ---
 
 # 流程图

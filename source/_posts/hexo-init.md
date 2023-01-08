@@ -19,6 +19,7 @@ categories:
    * 在"<用户名>.github.io"项目中设置CNAME。 CNAME文件中只要填写完整自定义域名（blog.angjs.com）即可。 
    * 通过验证的域名，可以"<用户名>.github.io"项目的设置中设置"Enforce HTTPS",设置了以后访问域名会自动跳转到https。 
    * 自定义域名的https-certificate是github-page服务从Let's Encrypt中申请的。
+4. netlify （CDN） 加速， 参考https://blog.csdn.net/huiruwei1020/article/details/107728435
 
 # 本blog的搭建步骤
 ## 安装hexo
